@@ -4,21 +4,16 @@ slug: usecase-monitoring
 excerpt: Monitoring guide for your infrastructure &#58; from 1 to thousands of hosts
 section: Use cases
 ---
-
-
-
-> [!primary]
->
-> Monitoring represents most of our customer experience, so we initially wrote a manifesto called "Metrics - Monitoring Manifesto", did you read it?
-> 
-
-
-
+**Last updated 7th May, 2018**
 > [!warning]
 >
 > This page is a Work in Progress.
 > 
 
+> [!primary]
+>
+> Monitoring represents most of our customer experience, so we initially wrote a manifesto called "[Metrics - Monitoring Manifesto](https://medium.com/@d33d33/bd089f26af2d#.mdlnskpan){.external}", did you read it?
+> 
 
 ## Monitoring?
 From an historical point of view, timeseries appeared shortly after the creation of the Web, **to help engineers monitor the networks.** It quickly expands to also monitors servers.

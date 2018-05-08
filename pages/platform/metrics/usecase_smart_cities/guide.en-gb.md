@@ -5,7 +5,7 @@ excerpt: How Metrics solves the complexity of Smart Grids
 section: Use cases
 ---
 
-
+**Last updated 7th May, 2018**
 
 > [!warning]
 >

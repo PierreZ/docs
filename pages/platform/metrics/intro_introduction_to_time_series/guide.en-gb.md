@@ -5,9 +5,10 @@ excerpt: General concepts about Time Series
 section: Introduction
 order: 1
 ---
+**Last updated 7th May, 2018**
 
 
-## What are Geo Time series?
+## What are Time series?
 
 
 > [!primary]

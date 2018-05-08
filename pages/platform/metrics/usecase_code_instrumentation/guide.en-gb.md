@@ -4,14 +4,12 @@ slug: usecase-apm
 excerpt: Monitor your apps through code instrumentation
 section: Use cases
 ---
-
-
+**Last updated 7th May, 2018**
 
 > [!warning]
 >
 > This page is a Work in Progress.
 > 
-
 
 ## Why instrumenting your app?
 
